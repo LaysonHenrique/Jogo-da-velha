@@ -1,3 +1,26 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}  
+
+/*textos*/  
 h1{
-    color: blue
+    color: #000000;
 }
+
+/*Botões*/
+#buttons-container button{
+    color: #000000;
+    border: none;
+    margin: 0 10px;
+    padding: 10 15px;
+    font-size: 15px;
+
+}
+.box{
+    display: inline-block;
+    
+}
+```
+```
